@@ -1,4 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "haskell.haskell"
+  "editor.defaultFormatter": "haskell.haskell",
+  "haskell.manageHLS": "GHCup"
 }

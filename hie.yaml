@@ -1,0 +1,13 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "brick-poc:lib"
+
+    - path: "./app/Main.hs"
+      component: "brick-poc:exe:brick-poc-exe"
+
+    - path: "./app/Paths_brick_poc.hs"
+      component: "brick-poc:exe:brick-poc-exe"
+
+    - path: "./test"
+      component: "brick-poc:test:brick-poc-test"
