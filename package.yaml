@@ -29,6 +29,9 @@ dependencies:
 - random
 - transformers
 - vty
+- microlens
+- microlens-th
+- text
 
 ghc-options:
 - -Wall
